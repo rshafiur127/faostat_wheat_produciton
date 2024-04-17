@@ -9,6 +9,12 @@ https://pypi.org/project/faostat/
 
 Which helps to read data from Faostat API. 
 
+# Pipeline
+For data pipeline we used only Mage
+
+And as infustructure we used docker image locally. In Google Cloud we used BigQuery, GCS, Looker Studio. 
+
+All the codes are in the mage and infrastructure repo.
 
 # Dashboard location
 
