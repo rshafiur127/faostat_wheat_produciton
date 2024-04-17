@@ -16,7 +16,11 @@ And as infustructure we used docker image locally. In Google Cloud we used BigQu
 
 All the codes are in the mage and infrastructure repo.
 
+
 # Dashboard location
+Used the BigQuery partitioned table as data source to create this dashboard. 
+
+We used first Looker Studio explorar for tha world map then used it Looker Studio. 
 
 https://lookerstudio.google.com/reporting/a2fea42b-0668-4077-a80a-53677e7c24be
 
