@@ -3,7 +3,7 @@ Collect data from faostat and through data preparation make it up to dashboard
 
 FAO is Food and Agriculture Organization of UN. Faostat preserve the data collected by FAO. 
 
-They also developed an Python package called faostat. 
+They also developed a Python package called 'faostat'. 
 
 https://pypi.org/project/faostat/
 
